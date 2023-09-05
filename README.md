@@ -15,5 +15,5 @@
 ### Select files
 ![image](https://github.com/CeliAPS/JoinerCAD/blob/main/Resources/Images/Select_files.png)
 
-4. Now you can use them with JoinerCAD. Provided samples work only with 2.4.0 ar newer versions of JoinerCAD
+4. Now you can use them with JoinerCAD. Provided samples work only with 2.4.0 or newer versions of JoinerCAD
 
